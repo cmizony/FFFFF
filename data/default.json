@@ -1,0 +1,18 @@
+{
+  "inputFile": "input.mp4",
+  "outputFile": "output.mp4",
+  "inputLogo": "logo.png",
+  "resolution": "1920x1080",
+  "openingCredits": {
+    "production": "Happy Production Team",
+    "title": "Sex Du Soleil"
+  },
+  "endCredits": [
+    { "role": "Director", "name": "Camille" }
+  ],
+  "trims": [
+    { "start": "00:00:07", "end": "00:02:15" },
+    { "start": "00:03:12", "end": "00:08:08" },
+    { "start": "00:09:13", "end": "00:12:28" }
+  ]
+}
