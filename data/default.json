@@ -1,7 +1,7 @@
 {
-  "inputFile": "input.mp4",
-  "outputFile": "output.mp4",
-  "inputLogo": "logo.png",
+  "inputFile": "data/input.mp4",
+  "outputFile": "data/output.mp4",
+  "inputLogo": "data/logo.png",
   "resolution": "1920x1080",
   "openingCredits": {
     "production": "Happy Production Team",
@@ -11,8 +11,9 @@
     { "role": "Director", "name": "Camille" }
   ],
   "trims": [
-    { "start": "00:00:07", "end": "00:02:15" },
-    { "start": "00:03:12", "end": "00:08:08" },
-    { "start": "00:09:13", "end": "00:12:28" }
+    { "start": "00:01:00", "end": "00:01:05" },
+    { "start": "00:02:00", "end": "00:02:05" },
+    { "start": "00:03:00", "end": "00:03:05" },
+    { "start": "00:04:00", "end": "00:04:05" }
   ]
 }
